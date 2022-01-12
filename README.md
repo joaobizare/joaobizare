@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaobizare
+- 👋 Hi, I’m João Antônio, nice to meet you!
 - 👀 I’m interested in learning!
 - 🌱 I’m currently learning coding! 
 - 💞️ I’m looking foward to collaborate with tech companies and the git community!
